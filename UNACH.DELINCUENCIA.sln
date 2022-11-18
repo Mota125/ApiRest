@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNACH.Delincuencia.Api", "UNACH.Delincuencia.Api\UNACH.Delincuencia.Api.csproj", "{BE99A964-A5A2-42FD-BC69-E1874497155F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE99A964-A5A2-42FD-BC69-E1874497155F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE99A964-A5A2-42FD-BC69-E1874497155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE99A964-A5A2-42FD-BC69-E1874497155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE99A964-A5A2-42FD-BC69-E1874497155F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD1197C4-5AF5-4218-B34B-C242A943A685}
+	EndGlobalSection
+EndGlobal
